@@ -1,4 +1,5 @@
 # gate.in
+![Nnamdi Okpala](docs/img/nnamdi-okpala.png)
 
 **A Cognitive Compliance System for Strategic Life Task Automation**
 
