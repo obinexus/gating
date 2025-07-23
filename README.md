@@ -44,15 +44,15 @@ The subjective-to-objective gap occurs when there is a disconnect between:
 
 **Objective Institutional Criteria**: The formal, rule-based, often binary assessment criteria that institutions use to make decisions. These typically focus on narrow legal definitions, documentation requirements, and standardized evaluation metrics that may not capture the full complexity of individual situations.
 
-### The Problem of Institutional Denial and Deferral
+### The Problem of Sequential Institutional Resistance: Delay → Denial → Deferral
 
-When institutions encounter requests that challenge their standard operating procedures or resource allocation patterns, they often employ what we term "denial and deferral persistence blocking." This manifests through several systematic approaches:
+When institutions encounter requests that challenge their standard operating procedures or resource allocation patterns, they follow a predictable escalation sequence designed to eliminate the request through systematic resistance tactics:
 
-**Technical Denial**: Using narrow interpretation of rules or criteria to reject requests that might otherwise have merit. For example, defining "homelessness" so restrictively that someone seeking better housing conditions doesn't qualify for assistance, regardless of the reasonableness of their request.
+**Stage 1: Delay (The Soft Block)**: The institution's first line of defense involves slowing down the process hoping the problem will resolve itself. This includes slow response times, requests for additional documentation that wasn't actually necessary, scheduling appointments weeks out, or claiming they're "processing" or "reviewing" the situation indefinitely.
 
-**Procedural Deferral**: Creating administrative delays, additional documentation requirements, or multi-step review processes that exhaust individual capacity to maintain engagement with the system.
+**Stage 2: Denial (The Hard Block)**: When delay tactics fail and the person persists, institutions escalate to direct rejection using the narrowest possible interpretation of their obligations. For example, defining "homelessness" so restrictively that someone seeking better housing conditions doesn't qualify for assistance, regardless of the reasonableness of their request, while using precise legal or policy language to make their rejection sound authoritative and difficult to challenge.
 
-**Status Persistence Enforcement**: Actively working to maintain existing arrangements regardless of whether they continue to serve the individual's legitimate interests or development needs.
+**Stage 3: Deferral (The Redirect)**: When denial fails because the person successfully challenges the decision, institutions attempt to push the problem elsewhere. This manifests as directing people to other agencies ("you need to contact Adult Social Care"), reframing as different issue types ("this is really a medical issue"), or suggesting alternative jurisdictions ("you should try a different council"), hoping to fragment the challenge across multiple systems until the person gives up due to navigation complexity.
 
 ### Real-World Case Study: Housing Rights Navigation
 
